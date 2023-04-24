@@ -1,0 +1,4 @@
+PRODUCT_MAKEFILES := \
+	$(LOCAL_DIR)/BQ_2400L.mk \
+	$(LOCAL_DIR)/omni_BQ_2400L.mk
+
